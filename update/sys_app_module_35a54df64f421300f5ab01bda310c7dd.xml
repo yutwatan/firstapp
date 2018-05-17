@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="apptest">3da54df64f421300f5ab01bda310c7da</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>apptests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_229498_firstapp_apptest</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_229498_firstapp.apptest_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-17 02:38:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>35a54df64f421300f5ab01bda310c7dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>apptests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="firstapp" source="x_229498_firstapp">6d85c5b64f421300f5ab01bda310c7ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="firstapp">6d85c5b64f421300f5ab01bda310c7ee</sys_scope>
+        <sys_update_name>sys_app_module_35a54df64f421300f5ab01bda310c7dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-17 02:38:11</sys_updated_on>
+        <timeline_page/>
+        <title>apptests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
