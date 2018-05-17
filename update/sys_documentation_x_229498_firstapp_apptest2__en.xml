@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="apptest2" language="en" table="x_229498_firstapp_apptest2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>apptest2</label>
+            <language>en</language>
+            <name>x_229498_firstapp_apptest2</name>
+            <plural>apptest2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-17 02:43:58</sys_created_on>
+            <sys_id>faf64132db4213009a889444ca96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>apptest2</sys_name>
+            <sys_package display_value="firstapp" source="x_229498_firstapp">6d85c5b64f421300f5ab01bda310c7ee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="firstapp">6d85c5b64f421300f5ab01bda310c7ee</sys_scope>
+            <sys_update_name>sys_documentation_x_229498_firstapp_apptest2__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-17 02:43:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
